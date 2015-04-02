@@ -1,0 +1,27 @@
+{
+  "name": "LoLChallenge",
+  "version": "0.0.0",
+  "description": "Entry into Riot Games' API Challenge 2015",
+  "main": "server.js",
+  "dependencies": {
+    "leagueapi": "~0.4.9",
+    "sqlite3": "~3.0.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mliu95/LoLChallenge.git"
+  },
+  "keywords": [
+    "riot",
+    "league",
+    "legends",
+    "lol"
+  ],
+  "author": "Michael Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mliu95/LoLChallenge/issues"
+  },
+  "homepage": "https://github.com/mliu95/LoLChallenge"
+}
