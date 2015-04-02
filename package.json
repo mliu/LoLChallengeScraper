@@ -5,7 +5,9 @@
   "main": "server.js",
   "dependencies": {
     "leagueapi": "~0.4.9",
-    "sqlite3": "~3.0.5"
+    "sqlite3": "~3.0.5",
+    "moment": "^2.9.0",
+    "request": "^2.54.0"
   },
   "devDependencies": {},
   "repository": {
