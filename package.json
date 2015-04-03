@@ -1,7 +1,7 @@
 {
-  "name": "LoLChallenge",
+  "name": "LoLChallengeScraper",
   "version": "0.0.0",
-  "description": "Entry into Riot Games' API Challenge 2015",
+  "description": "A scraper for Riot Games' API Challenge 2015",
   "main": "server.js",
   "dependencies": {
     "leagueapi": "~0.4.9",
@@ -12,7 +12,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/mliu95/LoLChallenge.git"
+    "url": "https://github.com/mliu95/LoLChallengeScraper.git"
   },
   "keywords": [
     "riot",
@@ -23,7 +23,7 @@
   "author": "Michael Liu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mliu95/LoLChallenge/issues"
+    "url": "https://github.com/mliu95/LoLChallengeScraper/issues"
   },
-  "homepage": "https://github.com/mliu95/LoLChallenge"
+  "homepage": "https://github.com/mliu95/LoLChallengeScraper"
 }
